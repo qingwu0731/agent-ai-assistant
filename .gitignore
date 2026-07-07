@@ -1,0 +1,5 @@
+.memory.json
+notes/
+__pycache__/
+*.pyc
+.env
